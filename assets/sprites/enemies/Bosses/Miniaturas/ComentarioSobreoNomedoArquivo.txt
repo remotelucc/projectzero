@@ -1,0 +1,7 @@
+Essa parte foi pelo Danilo, estou apenas enviando aqui por ele já que ele entrou no grupo depois que tinha criado o repositorio do github, então ele não tem acesso.
+
+Coloquei o nome dos bosses nos que eu sei qual são o nome, os que eu não sei só coloquei o nome do curso em parenteses
+
+Talvez seria melhor colocar cada um na própria pasta do boss do que colocar só as miniaturas numa pasta só? Não sei, nem sei o nome exato pra esse tipo de sprite.
+
+Assinado: Emmanoel :)
